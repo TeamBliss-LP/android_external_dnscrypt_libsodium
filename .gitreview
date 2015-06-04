@@ -1,0 +1,5 @@
+[gerrit]
+host=review.blissroms.com
+port=29418
+project=android_external_dnscrypt_libsodium.git
+defaultbranch=lp5.1
